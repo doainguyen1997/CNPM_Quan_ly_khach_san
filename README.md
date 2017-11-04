@@ -6,7 +6,7 @@ Các tính năng của phần mềm như sau:
   
   2. Nhân viên bán hàng có thể tìm phòng trống, đặt phòng, hủy phòng cho khách.
   
-  3. Quản lý khách sạn có thể thêm, sửa, xóa thông tin phòng, xem các báo cáo (doạnh thu, tỉ lệ phong trống, khách hàng đặt phong nhiều) theo thời gian, theo phòng, theo nhóm phòng, theonguồn gốc khách hàng.
+  3. Quản lý khách sạn có thể thêm, sửa, xóa thông tin phòng, xem các báo cáo (doạnh thu, tỉ lệ phong trống, khách hàng đặt phong nhiều) theo thời gian, theo phòng, theo nhóm phòng, theo nguồn gốc khách hàng.
   
   4. Khách hàng có thể đặt phòng, hủy phòng với nhân viên bán hàng hoặc lễ tân, checkin, checkout và thanh toán tại quầy lễ tân.
 
